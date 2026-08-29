@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from "./App";
 import reportWebVitals from './reportWebVitals';
-import { useContext } from 'react';
 import { Studentprovider } from './studentcontext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
